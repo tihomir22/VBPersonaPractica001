@@ -1,0 +1,11 @@
+C:\Users\mati\GithubProjects\VBPersonaPractica001\PersonaClase\PersonaClase\bin\Debug\PersonaClase.exe.config
+C:\Users\mati\GithubProjects\VBPersonaPractica001\PersonaClase\PersonaClase\bin\Debug\PersonaClase.exe
+C:\Users\mati\GithubProjects\VBPersonaPractica001\PersonaClase\PersonaClase\bin\Debug\PersonaClase.pdb
+C:\Users\mati\GithubProjects\VBPersonaPractica001\PersonaClase\PersonaClase\bin\Debug\PersonaClase.xml
+C:\Users\mati\GithubProjects\VBPersonaPractica001\PersonaClase\PersonaClase\obj\Debug\PersonaClase.vbprojAssemblyReference.cache
+C:\Users\mati\GithubProjects\VBPersonaPractica001\PersonaClase\PersonaClase\obj\Debug\PersonaClase.Resources.resources
+C:\Users\mati\GithubProjects\VBPersonaPractica001\PersonaClase\PersonaClase\obj\Debug\PersonaClase.vbproj.GenerateResource.cache
+C:\Users\mati\GithubProjects\VBPersonaPractica001\PersonaClase\PersonaClase\obj\Debug\PersonaClase.vbproj.CoreCompileInputs.cache
+C:\Users\mati\GithubProjects\VBPersonaPractica001\PersonaClase\PersonaClase\obj\Debug\PersonaClase.exe
+C:\Users\mati\GithubProjects\VBPersonaPractica001\PersonaClase\PersonaClase\obj\Debug\PersonaClase.xml
+C:\Users\mati\GithubProjects\VBPersonaPractica001\PersonaClase\PersonaClase\obj\Debug\PersonaClase.pdb
